@@ -78,9 +78,7 @@ function Home2() {
              
               <li className="social-icons">
                 <a
-                  href="www.linkedin.com/in/
-                  abdul-quddos-💻-42a9a8227
-                  "
+                  href="https://www.linkedin.com/in/abdul-quddos-%F0%9F%92%BB-42a9a8227/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
