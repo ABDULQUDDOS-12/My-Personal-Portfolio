@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="Custom Website Agency"
               description="This Website is basically client-based website in this website Client sells software services to the customers. This website is made by using MERN stack."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/ABDULQUDDOS-12/Custom-Website-Agency-Website"
+              demoLink="https://company-portfolio-website-beta.vercel.app/"
             />
           </Col>
 
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Pro Sales Tech Company Website"
+              description="This is basically clients website In this website he offers different services through the website. This website is made by using MERN stack"
+              ghLink="https://github.com/ABDULQUDDOS-12/company-project"
+              demoLink="https://www.prosalestech.com/"
             />
           </Col>
 
