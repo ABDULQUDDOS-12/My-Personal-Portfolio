@@ -10,6 +10,8 @@ function Type() {
           "Freelancer",
           "MERN Stack Developer",
           "Open Source Contributor",
+          "php Laravel Developer",
+          "Shopify Website Developer"
         ],
         autoStart: true,
         loop: true,
